@@ -31,4 +31,8 @@ spriteTypes = {
 		name = "GFX_focus_nh_free_press"
 		texturefile = "gfx/interface/goals/nh/free_press.dds"
 	}
+	SpriteType = {
+		name = "GFX_focus_nh_ussr_referendum"
+		texturefile = "gfx/interface/goals/nh/ussr_referendum.dds"
+	}
 }
