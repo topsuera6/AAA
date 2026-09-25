@@ -1,0 +1,34 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_focus_nh_free_elections"
+		texturefile = "gfx/interface/goals/nh/free_elections.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_nh_constitution"
+		texturefile = "gfx/interface/goals/nh/constitution.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_nh_parliament"
+		texturefile = "gfx/interface/goals/nh/parliament.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_nh_national_revival"
+		texturefile = "gfx/interface/goals/nh/national_revival.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_nh_economy"
+		texturefile = "gfx/interface/goals/nh/economy.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_nh_army_reform"
+		texturefile = "gfx/interface/goals/nh/army_reform.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_nh_diplomacy"
+		texturefile = "gfx/interface/goals/nh/diplomacy.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_nh_free_press"
+		texturefile = "gfx/interface/goals/nh/free_press.dds"
+	}
+}
